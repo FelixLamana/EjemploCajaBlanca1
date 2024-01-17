@@ -5,7 +5,7 @@ import java.util.Scanner;
  * Código de ejemplo de un ejercicio de caja blanca, donde se comprueba si un número es perfecto
  * 
  * @author Félix Lamana
- * @version 1.0
+ * @version 2.0
  *
  */
 public class EjemploCajaBlanca1 {
